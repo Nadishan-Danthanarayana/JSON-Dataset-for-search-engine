@@ -17689,7 +17689,7 @@
         "title": "Wonders of Nature Stock Photos, Royalty-Free Images and Vectors - Shutterstock",
         "description": "A curated collection of Wonders of Nature stock images from Shutterstock's library of millions of high resolution stock photos, vectors, and illustrations.",
         "keywords": "Keywords for Wonders of Nature Stock Photos, Royalty-Free Images and Vectors - Shutterstock",
-        "last_modify": "Fri, 20 Dec 2024 13:27:52 GMT",
+        "last_modify": "Sat, 21 Dec 2024 16:00:12 GMT",
         "author": "Unknown",
         "favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png",
         "images": [
@@ -17823,7 +17823,122 @@
         "videos": [],
         "pdfs": [],
         "books": [],
-        "sub_pages": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.shutterstock.com/featured-collections",
+                "sub_page_title": "Best of Shutterstock - Curated Image and Photo Collections | Shutterstock",
+                "sub_page_description": "Search millions of royalty-free curated images and vector collections. Get inspired by thousands of image and vector collections added daily.",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/how-we-show-it-black-hair",
+                "sub_page_title": "Black Hair Photos: How We Show It",
+                "sub_page_description": "How does one woman's relationship with her hair track the trends\u2014and what does it show about America's complicated history?",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/diverse-creative-professionals",
+                "sub_page_title": "Create Fund - The Shutterstock Blog",
+                "sub_page_description": "The Create Fund is an annual grant fund to support artists who are driving diversity, inclusion, social justice and environmental awareness initiatives in the content they create.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/free-downloads",
+                "sub_page_title": "Free Creative Asset Downloads | The Shutterstock Blog",
+                "sub_page_description": "If you\u2019re looking for free resources, tools, templates, or other ways to streamline your creative workflow, the Shutterstock Free Downloads blog is the place to be.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/computer-vision",
+                "sub_page_title": "computer vision Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for computer vision Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/generative-ai",
+                "sub_page_title": "generative ai Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for generative ai Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/ai",
+                "sub_page_title": "AI Image Generation - The Shutterstock Blog",
+                "sub_page_description": "Learn how to use an AI art generator, with tutorials, tips, and tricks! Explore our blog to see how Shutterstock is approaching AI ethics, learn actionable insights from expert interviews, and get started making your own AI generated images today.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production/music",
+                "sub_page_title": "Music Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Music Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production/video",
+                "sub_page_title": "Video Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Video Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production",
+                "sub_page_title": "Video Production Articles and Tips | The Shutterstock Blog",
+                "sub_page_description": "The Shutterstock Video Production Blog is the one-stop shop for amateur, freelance, and professional videographers and cinematographers. We cover everything from beginner camera tips to advanced staging, production, and post-production ideas.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/platform-solutions",
+                "sub_page_title": "Technical Platform Solutions | The Shutterstock Blog",
+                "sub_page_description": "Have a look at the multitude of content dealing with platform solutions available on Shutterstock. Read on and get in touch with our team if you have questions.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/editorial",
+                "sub_page_title": "Celebrity, Current Events, and Historical Photos | The Shutterstock Blog",
+                "sub_page_description": "The Editorial Channel of the Shutterstock Blog contains professional-quality photo galleries of the world\u2019s most important events and most recognizable people.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/tech",
+                "sub_page_title": "Tech Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Tech Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/finance",
+                "sub_page_title": "finance Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for finance Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/cpg",
+                "sub_page_title": "cpg Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for cpg Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/case-studies",
+                "sub_page_title": "Case Studies Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Case Studies Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/business/enterprise",
+                "sub_page_title": "Enterprise Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Enterprise Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/organizational-tools",
+                "sub_page_title": "Organizational Tools Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Organizational Tools Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/print-projects",
+                "sub_page_title": "Print Projects Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Print Projects Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            }
+        ],
         "category": "",
         "backlinks": "",
         "geo_location": ""
@@ -27713,6 +27828,1694 @@
                 "sub_page_title": "Dark Grey Wallpaper Bedroom - Shop on Pinterest",
                 "sub_page_description": "Shop Pinterest's top picks and inspiration for dark grey wallpaper bedroom. Get inspired and try out new things.",
                 "sub_page_favicon": "https://s.pinimg.com/webapp/favicon_48x48-7470a30d.png"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.shutterstock.com/images",
+        "title": "Royalty Free Stock Images For Creative Projects | Shutterstock",
+        "description": "Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing.",
+        "keywords": "Keywords for Royalty Free Stock Images For Creative Projects | Shutterstock",
+        "last_modify": "Sat, 21 Dec 2024 15:56:01 GMT",
+        "author": "Unknown",
+        "favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png",
+        "images": [
+            {
+                "image_url": "https://images.ctfassets.net/hrltx12pl8hq/01rJn4TormMsGQs1ZRIpzX/16a1cae2440420d0fd0a7a9a006f2dcb/Artboard_Copy_231.jpg?fit=fill&w=480&h=400",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.shutterstock.com/images"
+            },
+            {
+                "image_url": "https://images.ctfassets.net/hrltx12pl8hq/2ppk3Ug2z6oFMZY5z8WXnx/75af41f13939954c93de0ff8c1972612/shutterstock_1922207966.jpg?fit=fill&w=120&h=120",
+                "image_title": "shutterstock-1922207966",
+                "image_description": "shutterstock-1922207966",
+                "image_found_page_url": "https://www.shutterstock.com/images"
+            },
+            {
+                "image_url": "https://images.ctfassets.net/hrltx12pl8hq/1qoVFqqABKxtFRMkUh0v6l/6a9bbdc723ac373f4e44400de87997b2/shutterstock_1734177410__1_.jpg?fit=fill&w=120&h=120",
+                "image_title": "vector",
+                "image_description": "vector",
+                "image_found_page_url": "https://www.shutterstock.com/images"
+            },
+            {
+                "image_url": "https://images.ctfassets.net/hrltx12pl8hq/go6z2gBaTMDvTrtoOipOw/3b9d21ff7003ca392a2daeb569d629fc/shutterstock_1802211250.jpg?fit=fill&w=120&h=120",
+                "image_title": "shutterstock 1802211250",
+                "image_description": "shutterstock 1802211250",
+                "image_found_page_url": "https://www.shutterstock.com/images"
+            },
+            {
+                "image_url": "https://images.ctfassets.net/hrltx12pl8hq/ss2daMHu3XewLBroGgbtp/6cf4fbe1fc297c20ee6cd2bb303e12a1/shutterstock_2390735237.jpg?fit=fill&w=120&h=120",
+                "image_title": "AIGEN",
+                "image_description": "AIGEN",
+                "image_found_page_url": "https://www.shutterstock.com/images"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.shutterstock.com/ai-image-generator",
+                "sub_page_title": "Generate | Shutterstock - AI-powered image generator",
+                "sub_page_description": " The best AI image generator is easy-to-use & ready to convert your text prompts into innovative AI photos in hundreds of creative AI art styles in seconds.",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/free-ai-ebook",
+                "sub_page_title": "Free AI Ebook: How to Use Artificial Intelligence in Creative Work",
+                "sub_page_description": "\u201cWhat jobs will AI replace?\u201d We believe AI won\u2019t replace jobs, but will help creatives work better. Download our free AI ebook to learn how.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/diverse-creative-professionals",
+                "sub_page_title": "Create Fund - The Shutterstock Blog",
+                "sub_page_description": "The Create Fund is an annual grant fund to support artists who are driving diversity, inclusion, social justice and environmental awareness initiatives in the content they create.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/free-downloads",
+                "sub_page_title": "Free Creative Asset Downloads | The Shutterstock Blog",
+                "sub_page_description": "If you\u2019re looking for free resources, tools, templates, or other ways to streamline your creative workflow, the Shutterstock Free Downloads blog is the place to be.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/computer-vision",
+                "sub_page_title": "computer vision Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for computer vision Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/generative-ai",
+                "sub_page_title": "generative ai Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for generative ai Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/ai",
+                "sub_page_title": "AI Image Generation - The Shutterstock Blog",
+                "sub_page_description": "Learn how to use an AI art generator, with tutorials, tips, and tricks! Explore our blog to see how Shutterstock is approaching AI ethics, learn actionable insights from expert interviews, and get started making your own AI generated images today.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production/music",
+                "sub_page_title": "Music Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Music Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production/video",
+                "sub_page_title": "Video Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Video Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/video-production",
+                "sub_page_title": "Video Production Articles and Tips | The Shutterstock Blog",
+                "sub_page_description": "The Shutterstock Video Production Blog is the one-stop shop for amateur, freelance, and professional videographers and cinematographers. We cover everything from beginner camera tips to advanced staging, production, and post-production ideas.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/platform-solutions",
+                "sub_page_title": "Technical Platform Solutions | The Shutterstock Blog",
+                "sub_page_description": "Have a look at the multitude of content dealing with platform solutions available on Shutterstock. Read on and get in touch with our team if you have questions.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/editorial",
+                "sub_page_title": "Celebrity, Current Events, and Historical Photos | The Shutterstock Blog",
+                "sub_page_description": "The Editorial Channel of the Shutterstock Blog contains professional-quality photo galleries of the world\u2019s most important events and most recognizable people.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/tech",
+                "sub_page_title": "Tech Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Tech Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/finance",
+                "sub_page_title": "finance Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for finance Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/cpg",
+                "sub_page_title": "cpg Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for cpg Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/tag/case-studies",
+                "sub_page_title": "Case Studies Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Case Studies Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/business/enterprise",
+                "sub_page_title": "Enterprise Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Enterprise Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/organizational-tools",
+                "sub_page_title": "Organizational Tools Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Organizational Tools Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/print-projects",
+                "sub_page_title": "Print Projects Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Print Projects Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/social-media-designs",
+                "sub_page_title": "Social Media Designs Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Social Media Designs Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/cards-and-invitations",
+                "sub_page_title": "Cards and Invitations Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Cards and Invitations Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/creative-flow/marketing-assets",
+                "sub_page_title": "Marketing Assets Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Marketing Assets Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/design-software/shutterstock-create",
+                "sub_page_title": "Learn Shutterstock Create - Shutterstock Academy",
+                "sub_page_description": "Edit, crop, and innovate with Shutterstock Create. Make professional, effective designs using these creative tips and templates.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/business/small-business",
+                "sub_page_title": "SMB Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for SMB Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/business/marketing",
+                "sub_page_title": "Marketer Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Marketer Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/contributors/contributor-support",
+                "sub_page_title": "Contributor Support Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Contributor Support Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/contributors/photo-tips",
+                "sub_page_title": "Photo Tips Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Photo Tips Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/learn-photography",
+                "sub_page_title": "Learn Photography - Tips, Tricks, Tutorials - Shutterstock Academy",
+                "sub_page_description": "Explore photo editing techniques, lighting tips, and deep gear dives that cover everything from high-end glass to smartphones. Learn photography with Shutterstock.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/design/elements-principles",
+                "sub_page_title": "Design Elements & Principles Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Design Elements & Principles Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/design/resources",
+                "sub_page_title": "Design Resources Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Design Resources Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/design/design-inspiration",
+                "sub_page_title": "Design Inspiration Archives - The Shutterstock Blog",
+                "sub_page_description": "This is a description generated for Design Inspiration Archives - The Shutterstock Blog.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/blog/design",
+                "sub_page_title": "Creative Design Articles and Tips | The Shutterstock Blog",
+                "sub_page_description": "The Shutterstock Design blog features thought leadership, tips and tricks, interviews, and other content to help today\u2019s designers stay in touch with emerging trends, developing techniques, and leading voices in the industry.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/privacy",
+                "sub_page_title": "Privacy Policy - Shutterstock",
+                "sub_page_description": "The privacy policy for Shutterstock.com",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/privacy#anchor_updating_personal_information",
+                "sub_page_title": "Privacy Policy - Shutterstock",
+                "sub_page_description": "The privacy policy for Shutterstock.com",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/cookies",
+                "sub_page_title": "Stock Photos, Royalty-Free Images and Vectors - Shutterstock",
+                "sub_page_description": "Search millions of royalty-free stock photos, illustrations, and vectors. Get inspired by ten thousand new, high-resolution images added daily.",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/help",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": "https://www.shutterstock.com/assets/images/shutterstock-favicon-32.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/support/sstk_core_customerkb_redirect?a=000018285&l=en_US",
+                "sub_page_title": "24/7 Shutterstock Customer Support & Help",
+                "sub_page_description": "This is a description generated for 24/7 Shutterstock Customer Support & Help.",
+                "sub_page_favicon": "https://www.shutterstock.com/s/favicon/favicon.png"
+            },
+            {
+                "sub_page_url": "https://www.shutterstock.com/support/sstk_core_customerkb_redirect?a=000004483&l=en_US",
+                "sub_page_title": "24/7 Shutterstock Customer Support & Help",
+                "sub_page_description": "This is a description generated for 24/7 Shutterstock Customer Support & Help.",
+                "sub_page_favicon": "https://www.shutterstock.com/s/favicon/favicon.png"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.gettyimages.com/creative-images/stock-photos",
+        "title": "Getty Images",
+        "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+        "keywords": "Keywords for Getty Images",
+        "last_modify": "2024-12-21T15:56:52.111563Z",
+        "author": "Unknown",
+        "favicon": null,
+        "images": [
+            {
+                "image_url": "https://www.gettyimages.com/sign-in/assets/static/white-f114c2d21e50f9b239ac.svg",
+                "image_title": "No title",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.gettyimages.com/creative-images/stock-photos"
+            },
+            {
+                "image_url": "https://www.gettyimages.com/sign-in/assets/static/black-dd9588e3db810afab0eb.svg",
+                "image_title": "No title",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.gettyimages.com/creative-images/stock-photos"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.gettyimages.com/",
+                "sub_page_title": "Getty Images",
+                "sub_page_description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.gettyimages.com/license/627453756",
+                "sub_page_title": "Getty Images",
+                "sub_page_description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+                "sub_page_favicon": null
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://web.facebook.com/merrychristmaspictures/?_rdc=1&_rdr#https://www.freepik.com/ai/images/cyberpunk",
+        "title": "Merry Christmas Pictures",
+        "description": "Merry Christmas Pictures. 15,591 likes \u00b7 460 talking about this. \ud83c\udf84\u2728 Your go-to destination for stunning Christmas pictures, cozy holiday images, and...",
+        "keywords": "Keywords for Merry Christmas Pictures",
+        "last_modify": "2024-12-21T15:56:54.852023Z",
+        "author": "Unknown",
+        "favicon": "https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico",
+        "images": [],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.gettyimages.com/",
+        "title": "Getty Images",
+        "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+        "keywords": "Keywords for Getty Images",
+        "last_modify": "2024-12-21T16:01:25.512696Z",
+        "author": "Unknown",
+        "favicon": null,
+        "images": [
+            {
+                "image_url": "https://www.gettyimages.com/sign-in/assets/static/white-f114c2d21e50f9b239ac.svg",
+                "image_title": "No title",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.gettyimages.com/"
+            },
+            {
+                "image_url": "https://www.gettyimages.com/sign-in/assets/static/black-dd9588e3db810afab0eb.svg",
+                "image_title": "No title",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.gettyimages.com/"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.gettyimages.com/license/627453756",
+                "sub_page_title": "Getty Images",
+                "sub_page_description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+                "sub_page_favicon": null
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8",
+        "title": "embded images - Google Search",
+        "description": "This is a description generated for embded images - Google Search.",
+        "keywords": "Keywords for embded images - Google Search",
+        "last_modify": "2024-12-21T16:03:02.673411Z",
+        "author": "Unknown",
+        "favicon": null,
+        "images": [
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            },
+            {
+                "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/search?q=embded+images&oq=embded+images&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.google.com/setprefs?hl=en&prev=https://www.google.com/search?q%3Dembded%2Bimages%26oq%3Dembded%2Bimages%26gs_lcrp%3DEgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQ1NTZqMGo0qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8%26pccc%3D1&sig=0_bsBovRSjS6p4fAcU4_zdQxCYOgQ%3D&cs=2&sa=X&ved=0ahUKEwjt4bWtnrmKAxXJxzgGHcUqCZ0QjcAJCHo",
+                "sub_page_title": "Search settings",
+                "sub_page_description": "This is a description generated for Search settings.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Den-LK%26fg%3D1&opi=89978449&sa=U&ved=0ahUKEwi0vPatnrmKAxXxTGwGHREVFRsQ8qwCCAo&usg=AOvVaw0Vjidu-_v0FZ4skYMZFDM_",
+                "sub_page_title": "Google Terms of Service \u2013 Privacy & Terms \u2013 Google",
+                "sub_page_description": "This is a description generated for Google Terms of Service \u2013 Privacy & Terms \u2013 Google.",
+                "sub_page_favicon": "https://www.gstatic.com/policies/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_1A51OwFoa-KUCL4q5OvZ_gR0-JY%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about.html",
+                "sub_page_title": "Google - About Google, Our Culture & Company News",
+                "sub_page_description": "Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_ToCw0jgn3Gsz-N8jOFazbe70IPw%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/ads/",
+                "sub_page_title": "Google Ads - Get Customers and Sell More with Online Advertising",
+                "sub_page_description": "Discover how online advertising with Google Ads can help grow your business. Get customers and sell more with our digital advertising platform.",
+                "sub_page_favicon": "https://www.google.com/images/branding/product/1x/ads_24dp.png"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about/products",
+                "sub_page_title": "Browse All of Google's Products & Services - Google",
+                "sub_page_description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_MLzl-UC1zpxi0P6fAiy4FyQkV-Y%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/advanced_search?hl=en-LK&authuser=0",
+                "sub_page_title": "Google Advanced Search",
+                "sub_page_description": "This is a description generated for Google Advanced Search.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Den-LK%26fg%3D1&opi=89978449&sa=U&ved=0ahUKEwjC_aC1nrmKAxXrhlYBHWTBIzQQ8qwCCAQ&usg=AOvVaw0NReWAgyvIdOttDPriG-6i",
+                "sub_page_title": "Google Terms of Service \u2013 Privacy & Terms \u2013 Google",
+                "sub_page_description": "This is a description generated for Google Terms of Service \u2013 Privacy & Terms \u2013 Google.",
+                "sub_page_favicon": "https://www.gstatic.com/policies/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/contact?hl=en_GB",
+                "sub_page_title": "Contact us for help and office location guidance - Google",
+                "sub_page_description": "Google is here to help. Discover our office locations and different ways to contact us so that we can provide you with the support that you need.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/get-in-touch/",
+                "sub_page_title": "Get In Touch \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/initiatives-research/",
+                "sub_page_title": "Initiatives and Research \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/customers-partners/",
+                "sub_page_title": "For Customers and Partners \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/for-developers/",
+                "sub_page_title": "Resources for Developers and Publishers \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en_uk/accessibility/products-features/",
+                "sub_page_title": "Products and Features \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email",
+        "title": "embedding image in html email - Stack Overflow",
+        "description": "This is a description generated for embedding image in html email - Stack Overflow.",
+        "keywords": "Keywords for embedding image in html email - Stack Overflow",
+        "last_modify": "Mon, 28 Oct 2024 10:41:06 GMT",
+        "author": "Unknown",
+        "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+        "images": [
+            {
+                "image_url": "https://cdn.sstatic.net/Img/teams/teams-promo.svg?v=e507948b81bf",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/158e869755ccc8a90ec22d4c630ec1b6?s=64&d=identicon&r=PG",
+                "image_title": "tbone's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/04a9e3a116a19abc2dc8692378655c47?s=64&d=identicon&r=PG",
+                "image_title": "Mike's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/d8bd80b19569fb8327830ebf07835954?s=64&d=identicon&r=PG",
+                "image_title": "Bernd's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://i.sstatic.net/pjNWp.jpg?s=64",
+                "image_title": "Abzoozy's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/-DbuscxEfBS4/AAAAAAAAAAI/AAAAAAAABww/Moo79_Hx8bQ/photo.jpg?sz=64",
+                "image_title": "Khyati Elhance's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://i.sstatic.net/F7x32.png?s=64",
+                "image_title": "msrd0's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://graph.facebook.com/1770439461/picture?type=large",
+                "image_title": "Pavel Perna's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/92a359c378b8045bd801c715630dac42?s=64&d=identicon&r=PG",
+                "image_title": "Erwin Mayer's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/46feda8cf07254924a780ab782203806?s=64&d=identicon&r=PG&f=y&so-version=2",
+                "image_title": "Scooter Crawford's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/6d8945030b731a058733ae59586edf21?s=64&d=identicon&r=PG",
+                "image_title": "Brian's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://i.sstatic.net/1Tw8X.png?s=64",
+                "image_title": "Yurii's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/87b83c1ecbc544a20b49a616cf142f3f?s=64&d=identicon&r=PG",
+                "image_title": "Steven Newman's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://lh5.googleusercontent.com/-5N4mNzkQvFQ/AAAAAAAAAAI/AAAAAAAABmM/2PWNWs49z08/photo.jpg?sz=64",
+                "image_title": "tstrand66's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/610350468227f85be13d2346f37c1baf?s=64&d=identicon&r=PG",
+                "image_title": "Peter's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/2a2fc5c38d42ca08d7347db9cdaf25ca?s=64&d=identicon&r=PG",
+                "image_title": "GerardV's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/351f18e09013d202f88b1f33c76da6ee?s=64&d=identicon&r=PG&f=y&so-version=2",
+                "image_title": "Klendatho's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://i.sstatic.net/OAGuI.jpg?s=64",
+                "image_title": "Tarik's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/4dab8b1ff1d72852e42b807325bc1ab4?s=64&d=identicon&r=PG&f=y&so-version=2",
+                "image_title": "Vladimir Krasko's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://www.gravatar.com/avatar/7a8946ccbaaa40ef02f346baf8fd6173?s=64&d=identicon&r=PG&f=y&so-version=2",
+                "image_title": "Ajay Lamba's user avatar",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "image_url": "https://stackoverflow.com/posts/6706891/ivc/0295?prg=3c731e05-d97a-41ea-ae75-4f5429b7df12",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [
+            {
+                "book_url": "https://scifi.stackexchange.com/questions/293710/how-does-christines-origin-differ-in-the-movie-rather-than-the-book",
+                "book_title": "How does Christine's origin differ in the movie rather than the book?",
+                "book_description": "Generated description for https://scifi.stackexchange.com/questions/293710/how-does-christines-origin-differ-in-the-movie-rather-than-the-book",
+                "book_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            },
+            {
+                "book_url": "https://www.facebook.com/officialstackoverflow/",
+                "book_title": "Facebook",
+                "book_description": "Generated description for https://www.facebook.com/officialstackoverflow/",
+                "book_found_page_url": "https://stackoverflow.com/questions/6706891/embedding-image-in-html-email"
+            }
+        ],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://stackoverflow.com/help/licensing",
+                "sub_page_title": "What is the license for the content I post? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is the license for the content I post? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/legal/cookie-policy",
+                "sub_page_title": "Cookie Policy - Stack Overflow",
+                "sub_page_description": "This is a description generated for Cookie Policy - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/contact",
+                "sub_page_title": "Help Center - Contact Us - Stack Overflow",
+                "sub_page_description": "This is a description generated for Help Center - Contact Us - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/legal/terms-of-service/public",
+                "sub_page_title": "Public Network Terms of Service - Stack Overflow",
+                "sub_page_description": "This is a description generated for Public Network Terms of Service - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/legal/privacy-policy",
+                "sub_page_title": "Privacy Policy - Stack Overflow",
+                "sub_page_description": "This is a description generated for Privacy Policy - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/legal",
+                "sub_page_title": "Public Network Terms of Service - Stack Overflow",
+                "sub_page_description": "This is a description generated for Public Network Terms of Service - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help",
+                "sub_page_title": "Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/questions",
+                "sub_page_title": "Newest Questions - Stack Overflow",
+                "sub_page_description": "This is a description generated for Newest Questions - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com",
+                "sub_page_title": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+                "sub_page_description": "This is a description generated for Stack Overflow - Where Developers Learn, Share, & Build Careers.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/",
+                "sub_page_title": "Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/stack-overflow-jobs",
+                "sub_page_title": "Stack Overflow Jobs - Help Center",
+                "sub_page_description": "This is a description generated for Stack Overflow Jobs - Help Center.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/report-job",
+                "sub_page_title": "How to Report a Listing on Stack Overflow Jobs - Help Center",
+                "sub_page_description": "This is a description generated for How to Report a Listing on Stack Overflow Jobs - Help Center.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/jobs-faq",
+                "sub_page_title": "Frequently Asked Questions - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Frequently Asked Questions - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/discussions",
+                "sub_page_title": "What is the Discussions feature, and how does it work? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is the Discussions feature, and how does it work? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/discussions-moderators",
+                "sub_page_title": "Who are the Discussions moderators and what do they do? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Who are the Discussions moderators and what do they do? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/discussions-guidelines",
+                "sub_page_title": "Discussions guidelines - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Discussions guidelines - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/staging-ground",
+                "sub_page_title": "Staging Ground - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Staging Ground - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/staging-ground-reviewer-stats",
+                "sub_page_title": "What stats can I see as a Staging Ground reviewer? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What stats can I see as a Staging Ground reviewer? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/staging-ground-badges",
+                "sub_page_title": "What badges can reviewers and askers earn in Staging Ground? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What badges can reviewers and askers earn in Staging Ground? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/staging-ground-reviewer-guidelines",
+                "sub_page_title": "Guidelines and best practices for reviewers on the Staging Ground - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Guidelines and best practices for reviewers on the Staging Ground - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/staging-ground-successful-question",
+                "sub_page_title": "As an asker, what is considered a successful question from Staging Ground? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for As an asker, what is considered a successful question from Staging Ground? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/what-is-staging-ground",
+                "sub_page_title": "What is the Staging Ground?  - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is the Staging Ground?  - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives",
+                "sub_page_title": "Collectives on Stack Overflow - Help Center",
+                "sub_page_description": "This is a description generated for Collectives on Stack Overflow - Help Center.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-tags",
+                "sub_page_title": "How do you determine which tags are included in a collective? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for How do you determine which tags are included in a collective? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-join",
+                "sub_page_title": "How do I join a collective? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for How do I join a collective? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-bulletin",
+                "sub_page_title": "What is a bulletin? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is a bulletin? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-recognized-member",
+                "sub_page_title": "How can I become a Recognized Member? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for How can I become a Recognized Member? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/propose-article",
+                "sub_page_title": "How do I propose and review new articles?  - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for How do I propose and review new articles?  - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/article-feedback",
+                "sub_page_title": "How can I help improve an article? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for How can I help improve an article? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-actions-for-you",
+                "sub_page_title": "As a Recognized Member, how do I use the \"Actions for you\" page? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for As a Recognized Member, how do I use the \"Actions for you\" page? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/deleted-articles",
+                "sub_page_title": "Why and how are some articles in a collective deleted? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Why and how are some articles in a collective deleted? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-recommended-answer",
+                "sub_page_title": "What is a recommended answer? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is a recommended answer? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collections-management",
+                "sub_page_title": "Managing a collection: basics and best practices - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Managing a collection: basics and best practices - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collections-overview",
+                "sub_page_title": "What is a collection? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What is a collection? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-decommissioned",
+                "sub_page_title": "What happens when a collective is decommissioned? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What happens when a collective is decommissioned? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-transitioned",
+                "sub_page_title": "What happens when a provider-focused collective transitions to become a topic-focused collective? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What happens when a provider-focused collective transitions to become a topic-focused collective? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-user-types",
+                "sub_page_title": "What are the different types of users in a collective? - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for What are the different types of users in a collective? - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/article-guidelines",
+                "sub_page_title": "Article guidelines  - Help Center - Stack Overflow",
+                "sub_page_description": "This is a description generated for Article guidelines  - Help Center - Stack Overflow.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+                "sub_page_url": "https://stackoverflow.com/help/collectives-what-are",
+                "sub_page_title": "What is Collectives on Stack Overflow? - Help Center",
+                "sub_page_description": "This is a description generated for What is Collectives on Stack Overflow? - Help Center.",
+                "sub_page_favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://images.google.com/",
+        "title": "Google Images",
+        "description": "Google Images. The most comprehensive image search on the web.",
+        "keywords": "Keywords for Google Images",
+        "last_modify": "2024-12-21T16:04:27.699860Z",
+        "author": "Unknown",
+        "favicon": null,
+        "images": [],
+        "videos": [],
+        "pdfs": [],
+        "books": [
+            {
+                "book_url": "https://books.google.lk/?hl=en&tab=ip",
+                "book_title": "Books",
+                "book_description": "Generated description for https://books.google.lk/?hl=en&tab=ip",
+                "book_found_page_url": "https://images.google.com/"
+            }
+        ],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://images.google.com/advanced_image_search?hl=en-LK&authuser=0",
+                "sub_page_title": "Google Advanced Image Search",
+                "sub_page_description": "This is a description generated for Google Advanced Image Search.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://images.google.com/url?q=https://policies.google.com/terms%3Fhl%3Den-LK%26fg%3D1&opi=89978449&sa=U&ved=0ahUKEwi48LzXnrmKAxXybPUHHbu2CcQQ8qwCCAQ&usg=AOvVaw1argGlK0pfQ883PvvuwgYp",
+                "sub_page_title": "Google Terms of Service \u2013 Privacy & Terms \u2013 Google",
+                "sub_page_description": "This is a description generated for Google Terms of Service \u2013 Privacy & Terms \u2013 Google.",
+                "sub_page_favicon": "https://www.gstatic.com/policies/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://images.google.com/?hl=en-LK&fg=1",
+                "sub_page_title": "Google Images",
+                "sub_page_description": "Google Images. The most comprehensive image search on the web.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://images.google.com/preferences?hl=en",
+                "sub_page_title": "Search settings",
+                "sub_page_description": "This is a description generated for Search settings.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://images.google.com/url?q=https://policies.google.com/terms%3Fhl%3Den-LK%26fg%3D1&opi=89978449&sa=U&ved=0ahUKEwj25-XdnrmKAxV9RmwGHYYzCVIQ8qwCCAo&usg=AOvVaw3_dz1f5fc1FDPOLoxettJ-",
+                "sub_page_title": "Google Terms of Service \u2013 Privacy & Terms \u2013 Google",
+                "sub_page_description": "This is a description generated for Google Terms of Service \u2013 Privacy & Terms \u2013 Google.",
+                "sub_page_favicon": "https://www.gstatic.com/policies/favicon.ico"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.google.com/photos/about/",
+        "title": "Google Photos: Edit, Organize, Search, and Backup Your Photos",
+        "description": "Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.",
+        "keywords": "Keywords for Google Photos: Edit, Organize, Search, and Backup Your Photos",
+        "last_modify": "Thu, 05 Dec 2024 00:30:00 GMT",
+        "author": "Unknown",
+        "favicon": "https://www.google.com/photos/static/2020/images/logo_photos_192px.png",
+        "images": [
+            {
+                "image_url": "https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-s0",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/14dc967537b3bc4ac04c9613cab7b35c2970a7d8.svg",
+                "image_title": "Google Photos logo",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/7fb2a6218ed1d6ea9f4e3b16678a865ce6223d7e.svg",
+                "image_title": "Cloud icon with a checkbox",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/ed4e16586a98c58ed15d34736c78cbbb313d57be.svg",
+                "image_title": "Wand icon with sparkles",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0",
+                "image_title": "Download on the App Store",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/29ac3e0a49255e976ef8205af256c68f79082a54.svg",
+                "image_title": "Wand with sparkles",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/QN8QmSSyBwGYQYGqBeJ-rSZoGfJVqiIUe2lzG5raCRj78t88kvuw6GXFSMwyeQiyZa1hHtJnEb_OeIMH9eTkYh4AhmjoJnxGE4smPA=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/BIW54x17LpLCaQmwXNUNOCzhRYBS7jQjgNbGT6ABlIxJsA4RRuojBm4y7iW-n4LYeaTAKk5ftfdieQL2iCU0SuOH2R_MHaWl3bnz_w=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/7BR1vvvQSnzGibLkyR89xVw9SKyQQsfQkQq9JcwqVVzgYydnUSNeAiIUYLCqS0e5jBXMPM8u-3CAo2xzUie-vKRx2g7H86OgKIGJ=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/a4wdmxTB2jUCZkbc9QDBYotpGM5ZqtqHvQXv3pv3hNFH-VzCYPBazpf12GcsVzFp-KgJoI3d0uFWxwxvqyP2YME0Q60W3teDzJ9n=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/rYpPyH6rdDb5vfL5DYhOXr2kivRWRLTRpq1vGmWZuesPa9Sx6fT6hzdfxNtO34Ol1o46p91ooLhwFtjUZyfw0XnkDLVvIvJ6LJFS=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/y6RiFsWYj66edATeGd822T7SvkkmRO4nzEj4jtejXcTpUi0Sdwq3YMyKyCFQO55I6xqETa2B9g2YczDLuwGh0ZGxFmWebEP1D8TiHQ=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/pKgnKqkMxPOhwylRUTaxoovzrLdJMQe_q2JqPArA8qpoIDtQJCLthAVa85YRlyUY0h3NRXajiMim9A-XX-ptkLbA4yvVtxfkgOwg=e365-pa-nu-s0",
+                "image_title": "A couple smiling and hugging for a selfie.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/k5f7dBfyXaFk5oF65_0TuNXedVREB3x3wPJrKbLwrAMMksiV9ti8CZy-w0q24gfYK0jPivVRDfPEm3WhC3YpaA17BodgH-Oy22ZVmA=e365-pa-nu-s0",
+                "image_title": "Message, photo and copy link icons.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/GdXhRN1ihpp2_-1u8mHz1K8Q3YsAD_sM7_Jk4U81YmYF_8J39lMiStP4cn5qY_jpK-uXDbLwtOXUA8UaoUzp2bzBxln-cM7Zc14=e365-pa-nu-s0",
+                "image_title": "Icons indicating trusted users within the Google Photos app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/dntSIU7AoiGf2_cMwB2eNjWoHbO3ZyZRpH869id9yLZWTE3EdXKix6uNHiSwU8CpSS1Qw7IiLraUpFlwZp1elM88afb9QLyWgszEsQ=e365-pa-nu-s0",
+                "image_title": "Padlock icon indicating security.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/RzRlRRCEqfUkMK6yZerWapvQom-A13KGuoPsLfZf-XWDjMscXka-jBAONt4LY0wjQxV9DfoCZGBsexihmBXyUvZ2YUPwbrfpu9f2RA=e365-pa-nu-s0",
+                "image_title": "A checkmark icon.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-s0",
+                "image_title": "Get it on Google Play",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0",
+                "image_title": "Download on the App Store",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/1bnpLsc9Iza2UPNIh9OEY8o3ej6ebm5GqGp3D9kSHDiDEHS9jAEbOEXBQzS_MtNkwDvyVy1FMYBqsMtfFQRK5PwSfwZBqO16NWLl=e365-pa-nu-s0",
+                "image_title": "QR code to download the Google Photos app",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            },
+            {
+                "image_url": "https://gstatic.com/images/branding/googlelogo/svg/googlelogo_dark54_clr_84x28px.svg",
+                "image_title": "Google",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/about/"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.google.com",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_kZfUOjmwzdC2fN417NrkdJx4gYM%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about.html",
+                "sub_page_title": "Google - About Google, Our Culture & Company News",
+                "sub_page_description": "Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_xCoWd2i-0ZD_x_ezCBRQ4_DNnKM%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/ads/",
+                "sub_page_title": "Google Ads - Get Customers and Sell More with Online Advertising",
+                "sub_page_description": "Discover how online advertising with Google Ads can help grow your business. Get customers and sell more with our digital advertising platform.",
+                "sub_page_favicon": "https://www.google.com/images/branding/product/1x/ads_24dp.png"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about/products",
+                "sub_page_title": "Browse All of Google's Products & Services - Google",
+                "sub_page_description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/get-in-touch/",
+                "sub_page_title": "Get In Touch \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/initiatives-research/",
+                "sub_page_title": "Initiatives and Research \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/customers-partners/",
+                "sub_page_title": "For Customers and Partners \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/for-developers/",
+                "sub_page_title": "Resources for Developers and Publishers \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/products-features/",
+                "sub_page_title": "Products and Features \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/#top",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/#skip-to-content",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/products-features/#top",
+                "sub_page_title": "Products and Features \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-slides-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-sites-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-sheets-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/about/index.html",
+                "sub_page_title": "Home",
+                "sub_page_description": "This is a description generated for Home.",
+                "sub_page_favicon": "https://www.google.com/static/images/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-history/",
+                "sub_page_title": "Search Through Time",
+                "sub_page_description": "Over the years, the web and the world have changed. Since our launch in 1997, Google Search has continued to evolve to help you find the information you're looking for.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/information-quality/",
+                "sub_page_title": "Information Quality \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Google is committed to helping you find high-quality information online and has created tools to help you evaluate the reliability of information or sources.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/family-safety/",
+                "sub_page_title": "Family Safety \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We provide tools to ensure Google Search can be a place the whole family can confidently search for new information.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/detecting-spam/",
+                "sub_page_title": "Detecting Spam \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Google invests in systems to ensure that sites don\u00e2\u0080\u0099t rise in Search results through deceptive or manipulative behavior. This is especially important because spam sites can harm or mislead people.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/rigorous-testing/",
+                "sub_page_title": "Search Engine Testing & Evaluation - Google Search",
+                "sub_page_description": "Explore how Google utilizes search engine testing and evaluation to provide you with the most useful and relevant information.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/",
+                "sub_page_title": "Our Approach \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We have always believed it's important for everyone -- regardless of income or education -- to have access to the best information, and ads help us do that.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/organizing-information/",
+                "sub_page_title": "Organizing Information \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "When you Search, Google looks through hundreds of billions of webpages and other content stored in our Search index to find helpful information \u00e2\u0080\u0094 more information than all of the libraries of the world.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/helping-creators/",
+                "sub_page_title": "Helping Creators \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We\u00e2\u0080\u0099re invested in helping website owners succeed and be discovered through Search. That\u00e2\u0080\u0099s why we provide a free suite of tools and resources to help creators and businesses drive billions of visitors to websites large and small.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/ads-on-search/",
+                "sub_page_title": "Ads on Search \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We have always believed it\u00e2\u0080\u0099s important for everyone, regardless of income or education, to have access to the best information. Ads help us do that.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/maximize-access/",
+                "sub_page_title": "Maximizing Access \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "At Google, we believe in open access to information. We believe that society works best when people have access to a wide variety of webpages from many sources. That\u00e2\u0080\u0099s why we do not remove webpages from Search results, except in very limited circumstances.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/features/",
+                "sub_page_title": "Features \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Every time you search, there are thousands, sometimes millions, of webpages or other content that might be a match. Google uses its robust systems to present the most helpful information in response to your query.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            }
+        ],
+        "category": "",
+        "backlinks": "",
+        "geo_location": ""
+    },
+    {
+        "main_url": "https://www.google.com/photos/",
+        "title": "Google Photos: Edit, Organize, Search, and Backup Your Photos",
+        "description": "Edit and enhance photos with AI-powered features like Magic Editor and Magic Eraser on Google Photos. Store, organize & search your memories.",
+        "keywords": "Keywords for Google Photos: Edit, Organize, Search, and Backup Your Photos",
+        "last_modify": "Thu, 05 Dec 2024 00:30:00 GMT",
+        "author": "Unknown",
+        "favicon": "https://www.google.com/photos/static/2020/images/logo_photos_192px.png",
+        "images": [
+            {
+                "image_url": "https://lh3.googleusercontent.com/DDjcBEIK26X43MEH2l5q4NY5OiNK1kYrRgercHFRJ6ejsxN88ITFMs7Kz1R53xXOc72g-pEuot-kAvPtsNlPyWde7V3fzdWABpQ=e365-pa-nu-s0",
+                "image_title": "",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/14dc967537b3bc4ac04c9613cab7b35c2970a7d8.svg",
+                "image_title": "Google Photos logo",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/7fb2a6218ed1d6ea9f4e3b16678a865ce6223d7e.svg",
+                "image_title": "Cloud icon with a checkbox",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/ed4e16586a98c58ed15d34736c78cbbb313d57be.svg",
+                "image_title": "Wand icon with sparkles",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0",
+                "image_title": "Download on the App Store",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://storage.googleapis.com/gweb-mobius-cdn/photos/uploads/29ac3e0a49255e976ef8205af256c68f79082a54.svg",
+                "image_title": "Wand with sparkles",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/QN8QmSSyBwGYQYGqBeJ-rSZoGfJVqiIUe2lzG5raCRj78t88kvuw6GXFSMwyeQiyZa1hHtJnEb_OeIMH9eTkYh4AhmjoJnxGE4smPA=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/BIW54x17LpLCaQmwXNUNOCzhRYBS7jQjgNbGT6ABlIxJsA4RRuojBm4y7iW-n4LYeaTAKk5ftfdieQL2iCU0SuOH2R_MHaWl3bnz_w=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/7BR1vvvQSnzGibLkyR89xVw9SKyQQsfQkQq9JcwqVVzgYydnUSNeAiIUYLCqS0e5jBXMPM8u-3CAo2xzUie-vKRx2g7H86OgKIGJ=e365-pa-nu-s0",
+                "image_title": "Photo Stacks feature indicating 3 photos are stacked.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/a4wdmxTB2jUCZkbc9QDBYotpGM5ZqtqHvQXv3pv3hNFH-VzCYPBazpf12GcsVzFp-KgJoI3d0uFWxwxvqyP2YME0Q60W3teDzJ9n=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/rYpPyH6rdDb5vfL5DYhOXr2kivRWRLTRpq1vGmWZuesPa9Sx6fT6hzdfxNtO34Ol1o46p91ooLhwFtjUZyfw0XnkDLVvIvJ6LJFS=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/y6RiFsWYj66edATeGd822T7SvkkmRO4nzEj4jtejXcTpUi0Sdwq3YMyKyCFQO55I6xqETa2B9g2YczDLuwGh0ZGxFmWebEP1D8TiHQ=e365-pa-nu-s0",
+                "image_title": "Documents tab showing the number of each type of document within the app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/pKgnKqkMxPOhwylRUTaxoovzrLdJMQe_q2JqPArA8qpoIDtQJCLthAVa85YRlyUY0h3NRXajiMim9A-XX-ptkLbA4yvVtxfkgOwg=e365-pa-nu-s0",
+                "image_title": "A couple smiling and hugging for a selfie.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/k5f7dBfyXaFk5oF65_0TuNXedVREB3x3wPJrKbLwrAMMksiV9ti8CZy-w0q24gfYK0jPivVRDfPEm3WhC3YpaA17BodgH-Oy22ZVmA=e365-pa-nu-s0",
+                "image_title": "Message, photo and copy link icons.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/GdXhRN1ihpp2_-1u8mHz1K8Q3YsAD_sM7_Jk4U81YmYF_8J39lMiStP4cn5qY_jpK-uXDbLwtOXUA8UaoUzp2bzBxln-cM7Zc14=e365-pa-nu-s0",
+                "image_title": "Icons indicating trusted users within the Google Photos app.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/dntSIU7AoiGf2_cMwB2eNjWoHbO3ZyZRpH869id9yLZWTE3EdXKix6uNHiSwU8CpSS1Qw7IiLraUpFlwZp1elM88afb9QLyWgszEsQ=e365-pa-nu-s0",
+                "image_title": "Padlock icon indicating security.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/RzRlRRCEqfUkMK6yZerWapvQom-A13KGuoPsLfZf-XWDjMscXka-jBAONt4LY0wjQxV9DfoCZGBsexihmBXyUvZ2YUPwbrfpu9f2RA=e365-pa-nu-s0",
+                "image_title": "A checkmark icon.",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-s0",
+                "image_title": "Get it on Google Play",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-s0",
+                "image_title": "Download on the App Store",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://lh3.googleusercontent.com/1bnpLsc9Iza2UPNIh9OEY8o3ej6ebm5GqGp3D9kSHDiDEHS9jAEbOEXBQzS_MtNkwDvyVy1FMYBqsMtfFQRK5PwSfwZBqO16NWLl=e365-pa-nu-s0",
+                "image_title": "QR code to download the Google Photos app",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            },
+            {
+                "image_url": "https://gstatic.com/images/branding/googlelogo/svg/googlelogo_dark54_clr_84x28px.svg",
+                "image_title": "Google",
+                "image_description": "No description",
+                "image_found_page_url": "https://www.google.com/photos/"
+            }
+        ],
+        "videos": [],
+        "pdfs": [],
+        "books": [],
+        "sub_pages": [
+            {
+                "sub_page_url": "https://www.google.com",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_KQKEVE4RsS6p54cP3C5vLNFVpJc%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about.html",
+                "sub_page_title": "Google - About Google, Our Culture & Company News",
+                "sub_page_description": "Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/setprefdomain?prefdom=LK&prev=https://www.google.lk/&sig=K_2XNsTx4_WJDmWr_Wj3FXI5xCw6Q%3D",
+                "sub_page_title": "Google",
+                "sub_page_description": "This is a description generated for Google.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/ads/",
+                "sub_page_title": "Google Ads - Get Customers and Sell More with Online Advertising",
+                "sub_page_description": "Discover how online advertising with Google Ads can help grow your business. Get customers and sell more with our digital advertising platform.",
+                "sub_page_favicon": "https://www.google.com/images/branding/product/1x/ads_24dp.png"
+            },
+            {
+                "sub_page_url": "https://www.google.com/intl/en/about/products",
+                "sub_page_title": "Browse All of Google's Products & Services - Google",
+                "sub_page_description": "Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/get-in-touch/",
+                "sub_page_title": "Get In Touch \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/initiatives-research/",
+                "sub_page_title": "Initiatives and Research \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/customers-partners/",
+                "sub_page_title": "For Customers and Partners \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/for-developers/",
+                "sub_page_title": "Resources for Developers and Publishers \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/products-features/",
+                "sub_page_title": "Products and Features \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/#top",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/#skip-to-content",
+                "sub_page_title": "Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/products-features/#top",
+                "sub_page_title": "Products and Features \u00e2\u0080\u0093 Google Accessibility",
+                "sub_page_description": "Accessibility content and links for Google websites.",
+                "sub_page_favicon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-slides-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-sites-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/accessibility/static/pdf/google-sheets-vpat.pdf",
+                "sub_page_title": "No Title",
+                "sub_page_description": "This is a description generated for No Title.",
+                "sub_page_favicon": null
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/about/index.html",
+                "sub_page_title": "Home",
+                "sub_page_description": "This is a description generated for Home.",
+                "sub_page_favicon": "https://www.google.com/static/images/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-history/",
+                "sub_page_title": "Search Through Time",
+                "sub_page_description": "Over the years, the web and the world have changed. Since our launch in 1997, Google Search has continued to evolve to help you find the information you're looking for.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/information-quality/",
+                "sub_page_title": "Information Quality \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Google is committed to helping you find high-quality information online and has created tools to help you evaluate the reliability of information or sources.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/family-safety/",
+                "sub_page_title": "Family Safety \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We provide tools to ensure Google Search can be a place the whole family can confidently search for new information.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/detecting-spam/",
+                "sub_page_title": "Detecting Spam \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Google invests in systems to ensure that sites don\u00e2\u0080\u0099t rise in Search results through deceptive or manipulative behavior. This is especially important because spam sites can harm or mislead people.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/rigorous-testing/",
+                "sub_page_title": "Search Engine Testing & Evaluation - Google Search",
+                "sub_page_description": "Explore how Google utilizes search engine testing and evaluation to provide you with the most useful and relevant information.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/",
+                "sub_page_title": "Our Approach \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We have always believed it's important for everyone -- regardless of income or education -- to have access to the best information, and ads help us do that.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/how-search-works/organizing-information/",
+                "sub_page_title": "Organizing Information \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "When you Search, Google looks through hundreds of billions of webpages and other content stored in our Search index to find helpful information \u00e2\u0080\u0094 more information than all of the libraries of the world.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/helping-creators/",
+                "sub_page_title": "Helping Creators \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We\u00e2\u0080\u0099re invested in helping website owners succeed and be discovered through Search. That\u00e2\u0080\u0099s why we provide a free suite of tools and resources to help creators and businesses drive billions of visitors to websites large and small.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/ads-on-search/",
+                "sub_page_title": "Ads on Search \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "We have always believed it\u00e2\u0080\u0099s important for everyone, regardless of income or education, to have access to the best information. Ads help us do that.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/our-approach/maximize-access/",
+                "sub_page_title": "Maximizing Access \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "At Google, we believe in open access to information. We believe that society works best when people have access to a wide variety of webpages from many sources. That\u00e2\u0080\u0099s why we do not remove webpages from Search results, except in very limited circumstances.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
+            },
+            {
+                "sub_page_url": "https://www.google.com/search/howsearchworks/features/",
+                "sub_page_title": "Features \u00e2\u0080\u0093 How Google Search Works",
+                "sub_page_description": "Every time you search, there are thousands, sometimes millions, of webpages or other content that might be a match. Google uses its robust systems to present the most helpful information in response to your query.",
+                "sub_page_favicon": "https://storage.googleapis.com/googwebreview.appspot.com/grow-ext-file-upload/1704855130612873/favicon.ico"
             }
         ],
         "category": "",

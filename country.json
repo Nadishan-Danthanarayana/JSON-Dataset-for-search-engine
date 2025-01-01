@@ -6,37 +6,31 @@
         {
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IHCN0Qyn099I44633asH54TIrIzIKEQHOg&s",
           "location": "Yala National Park",
-          "description": "Yala National Park is a huge area of forest.",
           "url": "https://www.google.com/maps/place/Yala+National+Park/@6.4719796,80.1412044,9z/data=!4m10!1m2!2m1!1syala!3m6!1s0x3ae5d3a62ffb9359:0x3bb623d70b5a3314!8m2!3d6.4639613!4d81.4718847!15sCgR5YWxhWgYiBHlhbGGSAQ1uYXRpb25hbF9wYXJr4AEA!16zL20vMDJxMXo1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
         },
         {
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Wn-1uYsRv0lP_0Fh9PFkflBTmb4YxL-LmoT7BsGRjA&s",
           "location": "Sigiriya",
-          "description": "Sigiriya or Sinhagiri is an ancient rock.",
           "url": "https://www.google.com/maps/place/Sigiriya/@7.9546709,80.6662932,13z/data=!3m1!4b1!4m6!3m5!1s0x3afca0dfa73179d1:0x1e04c1150cff0edf!8m2!3d7.9541085!4d80.754698!16s%2Fm%2F0b6jy8p?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "image": "https://lh5.googleusercontent.com/p/AF1QipNY6HtNpzSBm5b-yD4M-xRUr3C4-jXzfGMuXaAN=w675-h390-n-k-no",
             "location": "Sri Dalada Maligawa",
-            "description": "Sri Dalada Maligawa (ශ්‍රී දළදා මාළිගාව) The Temple of the Sacred Tooth.",
             "url": "https://www.google.com/maps/place/Sri+Dalada+Maligawa/@7.2935349,80.638685,17z/data=!4m10!1m2!2m1!1sdalada+maligawa!3m6!1s0x3ae3662db149fbf5:0x8165d70ac115e887!8m2!3d7.293609!4d80.641325!15sCg9kYWxhZGEgbWFsaWdhd2FaESIPZGFsYWRhIG1hbGlnYXdhkgEPYnVkZGhpc3RfdGVtcGxl4AEA!16zL20vMDQxX2hz?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
           },
           {
             "image": "https://lh5.googleusercontent.com/p/AF1QipOs-ecT1xkVDY1T0YOxwfpmiOLPR5qcxffNITtn=w675-h390-n-k-no",
             "location": "Dambulla Royal Cave Temple and Golden Temple",
-            "description": "Dambulla cave temple, also known as the Golden Temple of Dambulla.",
             "url": "https://www.google.com/maps/place/Dambulla+Royal+Cave+Temple+and+Golden+Temple/@7.8553877,80.6473958,18z/data=!4m10!1m2!2m1!1sDambulla+cave+temple,+a!3m6!1s0x3afca558c5bd3669:0xd1daa5c0936b764c!8m2!3d7.8549141!4d80.6505699!15sChdEYW1idWxsYSBjYXZlIHRlbXBsZSwgYVoYIhZkYW1idWxsYSBjYXZlIHRlbXBsZSBhkgEPYnVkZGhpc3RfdGVtcGxl4AEA!16zL20vMGY4NHg4?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
           },
           {
             "image": "https://lh5.googleusercontent.com/p/AF1QipODJHHyo2Kjy0nXfSOUiQGVBSLDxHSv9Qq3noai=w675-h390-n-k-no",
             "location": "Galle Dutch Fort",
-            "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka.",
             "url": "https://www.google.com/maps/place/Galle+Dutch+Fort/@6.0304592,80.2101498,17z/data=!3m1!4b1!4m6!3m5!1s0x3ae173a378ee025d:0xb96f8a16ae16c3fe!8m2!3d6.0304592!4d80.2150207!16zL20vMDZrM2sx?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
           },
           {
             "image": "https://lh5.googleusercontent.com/p/AF1QipNMIO0O6bJSRguJASEd3xd3UdXQcqIUIn4fSEYs=w675-h390-n-k-no",
             "location": "Patna Estate Sliding Rock",
-            "description": "Patna Sliding Rock, locally known as the Patna Burus Gala.",
             "url": "https://www.google.com/maps/place/Patna+Division+Deniyaya+Sliding+Rock/@6.3753693,80.600398,17z/data=!3m1!4b1!4m6!3m5!1s0x3ae3e311bb04564f:0x7d1e3287478550a4!8m2!3d6.3753693!4d80.6029729!16s%2Fg%2F11gbkxrswm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
           }
       ],

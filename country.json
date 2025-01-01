@@ -1,0 +1,40 @@
+{
+    "name": "Sri Lanka",
+    "subtitle": "Country in South Asia",
+    "slides": [
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IHCN0Qyn099I44633asH54TIrIzIKEQHOg&s",
+            "location": "Yala National Park",
+            "description": "Famous for leopards and elephants"
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Wn-1uYsRv0lP_0Fh9PFkflBTmb4YxL-LmoT7BsGRjA&s",
+            "location": "Sigiriya",
+            "description": "Ancient rock fortress"
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRJLMMzJx8CHZ7sBXpi-1ae6s43Jd4NP4r2kawdoREw&s",
+            "location": "Kandy",
+            "description": "Temple of the Sacred Tooth Relic"
+        }
+    ],
+    "info": {
+        "map": "",
+        "flag": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9O4R2yfeF6mdJ4kHMHpU7DymbCqz2sQ7A34NeTVKKfmeDufK7qiUWj2J_okFq_BPIClsJXoRN1fsFXuL93unF9y2akS3dpiyq8fBv6CPv"
+    },
+    "overview": "Sri Lanka, historically known as Ceylon, is an island country in South Asia...",
+    "relatedPlaces": [
+        {
+            "name": "Colombo",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5fzNHKIgHGo-6FxnaSvEqcianTIPyVBtwvozuFoY-g&s"
+        },
+        {
+            "name": "Maldives",
+            "image": "path/to/maldives.jpg"
+        },
+        {
+            "name": "Thailand",
+            "image": "path/to/thailand.jpg"
+        }
+    ]
+}

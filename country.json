@@ -1,4 +1,44 @@
 [
+  {
+    "name": "Afghanistan",
+    "subtitle": "Country in South Asia",
+    "slides": [],
+    "info": {
+      "map": "https://www.google.com/maps/vt/data=zLOboitsafAvJEpiiYZqdvkqy3xQuV8PhTzxFZ1_vIi-4OPpJXbjfrJraw6xaw2l6FjLVP7Iso8rsPKlBkGorrUQWJZpd3maox79FQZYwdpJOYq-1A7KO1U6wywZAsFM3QByLCrE0cOoiPD1nf51WmZGrQTyK-6MpkmaKfTCz-5YOOCmSc0InbhgcMEKw6PcCsjTgPPFuFNVq3Ne4qk6AoEc21_lhUNfEyRrDnWmoENhmqC-b-cQhYIQqT7LC9AUGnN2yvABTT9VhrhvXhbCtji3946bLSQCFSXg?h=185&scale=2&w=360",
+      "flag": ""
+    },
+    "overview": "",
+    "capital": "Kabul",
+    "population": "",
+    "currency": "Afghan Afghani",
+    "dial_num": "+93",
+    "president": "",
+    "prime_minister": "",
+    "languages": "Pashto, Dari",
+    "relatedPlaces": []
+  },
+  {
+    "name": "",
+    "subtitle": "",
+    "slides": [],
+    "info": {
+      "map": "",
+      "flag": ""
+    },
+    "overview": "",
+    "relatedPlaces": []
+  },
+  {
+    "name": "",
+    "subtitle": "",
+    "slides": [],
+    "info": {
+      "map": "",
+      "flag": ""
+    },
+    "overview": "",
+    "relatedPlaces": []
+  },
     {
       "name": "Sri Lanka",
       "subtitle": "Country in South Asia",
@@ -42,6 +82,7 @@
       "capital": "Colombo Sri Jayawardenepura Kotte",
       "population": "22.04 million (2023)",
       "currency": "Sri Lankan rupee (LKR) රු (Rs)",
+      "dial_num": "+94",
       "president": "Anura Kumara Dissanayake",
       "prime_minister": "Harini Amarasuriya",
       "languages": "Sinhala, Tamil",

@@ -47,7 +47,7 @@
     "prime_minister": "we are unable to find information",
     "languages": "Pashto, Dari",
     "dial_num": "+93",
-    "relatedtitle": "place to visit",
+    "relatedtitle": "Country's to visit",
     "relatedPlaces": [
       {
         "name": "Iran",
@@ -108,7 +108,7 @@
     "capital": "Yerevan",
     "population": "2.778 million (2023) World Bank",
     "currency": "Armenian Dram",
-    "president": "",
+    "president": "we are unable to find information",
     "prime_minister": "Nikol Pashinyan",
     "languages": "Armenian",
     "dial_num": "+374",
@@ -133,6 +133,186 @@
       {
         "name": "Tsaghkadzor",
         "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQGDfalfLcAUW4ldZUTIdtYVghCuwZQUxhh1ru2i_9ODeXpvR1xU3zzmZ6XLqtVSfZkuNe3N5lTDl7peAEqzQvjAGbU9cLVIxK9yU_nJQ"
+      }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "subtitle": "Country in South Asia",
+    "slides": [
+      {
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMPYpQND5VYqR7POS4CCiYxaPqOgkywiZed7z7o=w675-h390-n-k-no",
+        "location": "Heydar Aliyev Centr",
+        "url": ""
+      },
+      {
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMGWfZjuvofw85KfS7vnDRNK2CRcZPCouZdENo9=w675-h390-n-k-no",
+        "location": "İçəri şəhə",
+        "url": ""
+      },
+      {
+          "image": "https://lh5.googleusercontent.com/p/AF1QipOpQi2lyvndU34JNDHpRfdKL_lH6dMGLQ0tLJAY=w675-h390-n-k-no",
+          "location": "Qız Qalası",
+          "url": ""
+        },
+        {
+          "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR2VbRSEMDcVQBLm8f-n-1fXlHehnzxZiHIMtN4q7o8kUXLB_lPcBtTalX7qMW-1JJz2onRJfSfk6sMnj0StympRyTYN4Ksj9hPRIK19w",
+          "location": "",
+          "url": ""
+        }
+    ],
+    "info": {
+      "map": "https://upload.wikimedia.org/wikipedia/commons/1/12/Political_map_of_the_eastern_part_of_the_Southern_Caucasus_between_1795%E2%80%931801.svg",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACCCAMAAACXSEZJAAAAgVBMVEUAteJQni/vM0D///8Au+nBZX7IWztCoy7yL0DzLjnvLDrvLjzvKDfvMT7uFiruGizuIjLvN0T++PjwRVD96uv5v8LxV2D2m5/84OH1j5T0gYf3q6/zdn3+8/T4sLPyY2vzcHf72dvxTVf0h4370tT3o6jtABP6yczuByLyaXH4uLusO8JMAAACy0lEQVR4nO2aWZeiMBBGCfQ2kE1EBJd2b9H//wMHawDlCE6/dKWPfPfFI+IhuWSpVOJ5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA45QW8eK/g1fvjCGuM1sa6enwLz3dAZM1otZvOD/l6bE2oXJThFgcSQp3Os6AmmZysdKyBXYIyq33QJslNyF2MFtwSpDreVD/OSuJSw8owl6MFswRzihsDmzwNdYlM801w0A67BK8EkzcKJttCRlRxFclie9w7HBhYJehpMwykOrr9JdKnibtZglOCnTXN4H4kDP1Z1PUnDhglROPawbzoeOlKjeiqg4mCUYKug4NJ0X3DPwcLfgt8EmQ9KGaPJoJovOxR9IOwSVCmnhy33a9a0WV7CNKo+cYEmwS5qxycu+MitV0YWfaZJPi0vrJyJ7lKxihBbyoJo57OoJNsYWwaBMvChtN4brlKxidBjSoH+74AOVyU4cPss7xlfSh7TsQYNXBJkHWM0N/My55whbMhsEmwn1Xtxr1vuBk1HnWaH4FLgqnWz3HvclHJr2tTOH9xBtFcEooqUsp65gapR/nm2hDi40LyJRnYJCyr9XOnBNUy0Hjgagy/WgLXigrdwcfASPymKXJ2bQnPOUWGCJZuw2bdc8cAwmYsoC58Yymtn34prXQVKQw5qXJtCg/Ta+qp02s3idbzo2o+d6L1Gyl3+nzulPv/Nl/Ylgp3sG7DGWzD+Y82ZPeD2ZC925qPLueWwjTPgvlwtubLidKf3OYMkixLBndI47ITld4d19kN7LiOf39wa20ZI+ROcISvxPtwRCittVK6enwL7w28ee/g3RNAQIKABAISBCQQkCAggYAEAQkEJAhIICBBQAIBCQISCEgQkEBAgoAEAhIEJBCQICCBgAQBCQQkCEggIEFAAgEJAhIISBCQQECCgAQCEgQkEJAgIIGABAEJBCSU/AUjFcmZBagVLAAAAABJRU5ErkJggg=="
+    },
+    "overview": "Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe. Its capital, Baku, is famed for its medieval walled Inner City. Within the Inner City lies the Palace of the Shirvanshahs, a royal retreat dating to the 15th century, and the centuries-old stone Maiden Tower, which dominates the city skyline.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Azerbaijan",
+    "capital": "Baku",
+    "population": "10.11 million (2023) World Bank",
+    "currency": "Azerbaijani Manat",
+    "president": "Ilham Aliyev",
+    "prime_minister": "Ali Asadov",
+    "languages": "Azerbaijani",
+    "dial_num": "+994",
+    "relatedtitle": "place to visit",
+    "relatedPlaces": [
+      {
+        "name": "Heydar Aliyev Centre",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSJFkUrjyjUfnTpt8hYzWD5FUJyelcA8_mXyYPXRfeupM8htYd7HqOxy69hZNa7WZJHaNtYMrc4Npz3A5Ffmf-9yEeLezfdQeHrw92RNA"
+      },
+      {
+        "name": "Azerbaijan Carpet Museum",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOyPdDPcIXUeAtcDvZgMke4cgjEFBTAos4h3o0K=w675-h390-n-k-no"
+      },
+      {
+        "name": "Yanar Dag",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGklqG5X1scVlsT9kSy-nayDe5AI7MgTpLDcFTCjQmXscJzgBvShLlvFWoSaSiCeTs59PIu2bpiYX2lFDhgosTRFV7RidhdVkGbd1bH8w"
+      },
+      {
+        "name": "Dənizkənarı Milli Park",
+        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSyII0dM4Ziv9GhvD5JmNmmX0i0oq-HSeBsFcocoAE_Z4MJa-z1wPB3gb6XR3MUz9sO0YKqo4aEiqXqAJ0wPSsb_uY7FTf5wSb9Qcauyw"
+      }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "subtitle": "Country in the Middle Eas",
+    "slides": [
+      {
+        "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS_iVeGIYv-IvjZ1C6pWGhRWQ_wDQRYhK1ZFj9lkgBrpTKtMcDN7Iilh1HfrNsYNrRLKyuPXzMqOjo7OcU_cAkq2GCj8-8KZcoqIDLbUw",
+        "location": "",
+        "url": ""
+      },
+      {
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOLpp4G5CtTD2ZzqVd36df_S5xDvTWbh1i-cgRT=w675-h390-n-k-no",
+        "location": "Bahrain For",
+        "url": ""
+      },
+      {
+          "image": "https://lh5.googleusercontent.com/p/AF1QipPzSsK-nNtZqbHWupmTRGj7la1AWVmbPjYU7a3i=w675-h390-n-k-no",
+          "location": "Bahrain National Museum",
+          "url": ""
+        },
+        {
+          "image": "https://lh5.googleusercontent.com/p/AF1QipPNi-oKUQ2BXLa4a2M1gczJoEQFD1qYS08QFiYq=w675-h390-n-k-no",
+          "location": "Al Fateh Grand Mosque",
+          "url": ""
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTf-BtM9W2cA5Dk6xuCEfS7pV3R43fK9gEAA5RsHWhi0WR4cB3QjUIXP-AkPvd3gA8-sNuTXjA6ntuxsBNGczg2GpgQCJNvSKvfHNa5sw",
+          "location": "",
+          "url": ""
+        }
+    ],
+    "info": {
+      "map": "",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACcCAMAAACulCWiAAAAUVBMVEXOESb////LAADODSTNAB/MABXhiIz//P334eLsuLv55ufNABjWUFjghYrURE3NAB3VSVH12Nrll5z89fbSOELggIfijJHRKzjpqq7uwcPYWWEDPTK0AAADhElEQVR4nO2d23KbQBBENbIU3aI4tnP//w8Ni+RaFUV48HYDpzLnDzi1anqWBW2ilZfr83a3YdMsIeJw+rzdPy19IS0IJHQcP6GXg0ZCWQ5fthfqclBJ6Dhfd9vnpa/nQwglcNNBKiFKOux46aCWgEwHvYTgLQeLBFo6mCREWQ4XynLwSQClg1NC3LrD+peDWQIjHewSOo7X3X7p65xkDgkdr6u2MIeB8otY+jon8SsAjNluBYBYNEs4r38R9PgMYKqST8IR0ZLuWAwQCtIjBgWUJKioDRxOXylJUNEqAHSCMZQKYElQkRngJUFFY6B0AuYi6FEoQHWCMZoNvGGToNIs4fSNd0sc0iyBHYk3BBJ4NXmIREKUmvTEXQ4qCajReYhOQnDTQSohoNVZLQE5ROklAMdph4QozyAxj6Q3xo1WUnewSQjQgRWnBEx38EoIRnewS4i+O1yWvs5J5pDQLYfvq7Ywj4MfP1cdDH4DgHB0KzgS3gmxGqAUJqMCztF/lwFAElQ8CmDjtMEAJQkqcgVnytT0gNYAKgkqSgWY0XmIzAAvCSoiBSUJGJ1gDIUB3MbqkHYF2CSoNDv4tQX/Du60rwT4UZ1Cu4Sgx6Ls7kC+QSrLEug9yCE6CdjSLB+giOOTYYokpoNcQkA2Vx9xSMClg0dCsHbYbBICdH7JKQHTHbwSIGO2W0IQTijMIKHj959Vz1cpYZM/hx63gQzGvEVmWcranANU5CidmyqR22u4JKjoFEA6wRgiA8QkqEgU5GO4fCCbj+Zv5CGNHsS4PIVCQtCjUSSBfZOUSQhwOiglYIuzVkIwRyi5BGI6GCQEa29tk6//9LgkRL4IdoeSDlYJAdl0dUtApINfQuQL43cL//2nAw75EYn1n07ID8v0OBVgvt1qM0ApSgWTgjPqcZTDAG7jVa8ANkYX1ApASVCRGiB0gjF0BiCdYAyVgvxkMakTjCFQQE2CSrOC/KB95F8bvIMZlP6FQgL+yI5GQrDjUSYhoJW5oJSAHJ4KWgnAMbqglhDEdDBI4NVoi4SAdQeXBNRo7ZMQnHSwSghId3BLQHQHv4T8m/V3XvdLX+gUcxjobperduCXQChOZgVnRGdyGsDUJZ8C0HuSJgOEJKhYFNDe/tAbwCRBRa2Atgh6pAZYSVARKuAc7R+iMgBMgopGAWBcnkJggJoElWYFL4S3Oqb5CzDeSd37VMzzAAAAAElFTkSuQmCC"
+    },
+    "overview": "Bahrain, officially the Kingdom of Bahrain, is an island country in West Asia. It is situated on the Persian Gulf, and comprises a small archipelago made up of 50 natural islands and an additional 33 artificial islands, centered on Bahrain Island which makes up around 83 percent of the country's landmass.",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bahrain",
+    "capital": "Manama",
+    "population": "1.486 million (2023) World Bank",
+    "currency": " Bahraini Dinar",
+    "King": "Hamad bin Isa Al Khalifa",
+    "prime_minister": "Salman bin Hamad Al Khalifa",
+    "languages": "Arabic",
+    "dial_num": "+973",
+    "relatedtitle": "place to visit",
+    "relatedPlaces": [
+      {
+        "name": "Al Fateh Grand Mosque",
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTqxiDVXSwqsQND1BKVOQT9p9tp-r5v-fysUAwQY-eUxqX18MBbYy-QqxU2E1_AFuxG1SK8KL8gxQViMgFHstzu3lYmXyIjS1i-Z-aOyQ"
+      },
+      {
+        "name": "Royal Camel Farm",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNLSjUykanidQtp0zEuCOOxL-CrcHZgLB3JQjdw=s294-w294-h220-k-no"
+      },
+      {
+        "name": "Marassi Aquarium & Underwater Zoo",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOdc3IZ05qIXvbJJ3brJ4PyRh5UFkE1ZzAnxeVb=s294-w294-h220-k-no"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "subtitle": "Country in South Asia",
+    "slides": [
+      {
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOYTrb-bbIpvOtFzIv9YCAXp0DwH37HnDMp2IEg=w675-h390-n-k-no",
+        "location": "Lalbagh Fort",
+        "url": ""
+      },
+      {
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPL0IYxiirrmP4REY5ODTnVZOtm6BNc6SWPWAXi=w675-h390-n-k-no",
+        "location": "Ahsan Manzil Museum",
+        "url": ""
+      },
+      {
+          "image": "https://lh5.googleusercontent.com/p/AF1QipO4aLV7L4MLL1WAacE7jbwnW3KEco_cJ5RCSytu=w675-h390-n-k-no",
+          "location": "Sompur Mahavihara",
+          "url": ""
+        },
+        {
+          "image": "https://lh5.googleusercontent.com/p/AF1QipMw1oNy0L2-7EuJeoiCphuo0J05sIQeqM-Gs6n1=w675-h390-n-k-no",
+          "location": "Jatiyo Sangsad Bhaban",
+          "url": ""
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSe8VoNeBWeI7JE2Yv3GlJCgGxYaJy35nGV-tGKOYWtmKAl_47HS6TK9NB3-WNUDl5h4O2m0X7G1USQzodBTusH2EEIA7t6y8-3xZbFHw",
+          "location": "",
+          "url": ""
+        }
+    ],
+    "info": {
+      "map": "",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACcCAMAAACulCWiAAAAYFBMVEUAak70KkEAbE74KEH7JkAAbk//I0DHPUTbM0PkL0LpLkKpR0bQN0PTNkOSTkjvLUImZU1pWkoVaU6GUEg6YkxkW0q3QkVJYEywQ0ZzWEoyZU3KOkSOT0h4V0nfMEJsWEomHM8jAAADT0lEQVR4nO2d23rqIBBGccDEJGoST/FUff+33BC0WrWxWyEyyb+u2l6V9XEYCMwIAQAAAAAAAAAAAAAAAAAAAFhCFjHTnH/79P/UKqbBRTnP4vEoSfM8TUbjOJsfi/6I0A1dTONUKSUNA039g/5DGk+rHnjQLVyu8kjZxt8hVZSvStFpDzSsslQ9bv+ViHRdDbuqgaicKNVswKLUZNPJ3kC0OURPOsFVd4iSr85pIFomf1dgNRyO3RoUtNg9mwoeaFDjbXcsEO1/WQ2eaZDTrowJKsbRKwoMalJ0wsLw67VucOoMasPfAlH2cjewRBn3IUEi/lNk0ITaCdYWaDZ624G2cOBsgYrkjenggkz5To9UpE4caAsJ14iBZm76gbUwY2mBxMiZA23hwFPCzsGceEHtGFoYZk4daAsZOwu0eTNGemDhi5kF2rpWoJHMFkqaOJwUvyWMWEmgqeMJwaKmjCzQ1kM/qFnwsTDceZIgYzYSqHS+MpyJSi4WyGWo+BM2gaOHEOECl2CB3O2b7pEJCwm08bI8nomOHCx4iZMuyDEDCVR57Qi6KzCIFcj17vEWuWYgwa8CTfrpJj6Flh7XR4sKPmCilddp0SBXwUtwdcDcICH0UIEq76NBj4cqbAueDhJuJOwDlxB7Hw0MNtQ+9w3f5MNPN7MJL+er90SfbmcjVLYwJYR+tELzViSoedASfG8cLDLoj1GtLA6hLw80bkdC0GcKHo9Yf0gI+lMUpW04GMg0aAl5KxIG+acb2oT/E5UTn25oE5AgMBxqMDEKLJE1CJYEwuYabKAEttI1OFQROF47gYPW1o7cA5eAjy/4DGfBB1mBT/M1uKRh8H6uIsO/roOLWwaqPE8KHK7w4TKngY5ep0Ye13pxwduAq/4GPPoQeP5jwUMw4fNJIKc0CngcasAzYYEH4xYPcSPDtFNIImFAOhGBxDIWpymGDjxTDCHZlAVpxwxIQGdwkoow5u0ASSlPID2pAYlqDUhZXEOLuO/Jq8WLaczLbqUxFy8ktO9qXv//KG1w7KQCA4pc1DSXO5Gm3Mm64+VOakzhm32c/FL4ZtGDwjcWU+potrwtgVT2qATSmetiWNTDYlgAAAAAAAAAAAAAAAAAAAC94B89cDkuyfgC3AAAAABJRU5ErkJggg=="
+    },
+    "overview": "Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger",
+    "wiki_url": "https://en.wikipedia.org/wiki/History_of_Bangladesh",
+    "capital": "Dhaka",
+    "population": "173 million (2023) World Bank",
+    "currency": "Bangladeshi Taka",
+    "president": "Mohammed Shahabuddin",
+    "prime_minister": "we are unable to find information",
+    "languages": "Bengali",
+    "dial_num": "+880",
+    "relatedtitle": "place to visit",
+    "relatedPlaces": [
+      {
+        "name": "Lalbagh Fort",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRM6BhPM7UvBTTJOsaVZS6T3GXh7PEf0wrIWNloxGC_bocyTqQugS4XfWpKtriLNGqv_GFoiL9uAtiGvn2phqUOVxK-XR8v7KzlLWYPuQ"
+      },
+      {
+        "name": "Ahsan Manzil Museum",
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQfI-8YNWnRndTLP77gbidz3RzyECaF3bWhg9GN-ueMF31uZGnOJePVHh1IRiqN1GyuPvwpeXnAgs-GHPCkY3Ejlag9hkyDj83uJyNQwRk"
+      },
+      {
+        "name": "Sajek Valley",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSj4R2QJ5WLi-lLNfbNs5x2K_iy1phWi1KFYvejObMefTOLugAbernttEYbxGaPEzNfV27xwm4bHjz3OasMIZjQZjOPgLG_Y6hmoh7OGw"
+      },
+      {
+        "name": "Cox's Bazar Beach",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNllgM6a6jgpWzhOPBGEhtNJz41wqIS2lFXKLiz=s294-w294-h220-k-no"
       }
     ]
   },
@@ -184,6 +364,7 @@
       "prime_minister": "Harini Amarasuriya",
       "languages": "Sinhala",
       "dial_num": "+94",
+      "relatedtitle": "place to visit",
       "relatedPlaces": [
         {
           "name": "Colombo",

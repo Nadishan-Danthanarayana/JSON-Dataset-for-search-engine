@@ -1,13 +1,15 @@
 [
     {
       "name": "Neuro corporation",
-      "subtitle": "IT corporation",
+      "subtitle": "IT Company",
       "logo": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/neuro%20corp.jpg",
-      "Parent organization": "",
+      "dis": "Neuro Corporation is a Sri Lankan IT company founded on August 30, 2023, by Nadishan Danthanarayana, who also serves as CEO. The company specializes in developing cutting-edge software solutions, with a strong focus on Artificial Intelligence (AI), Robotics, and other innovative technologies.",
+      "wiki_url": "",
+      "Parent_organization": "",
       "Subsidiaries": "",
       "Founders": "*Nadishan Danthanarayana*",
       "Founded": "*August 30 2023*",
-      "Area served": "International",
+      "Area_served": "Worldwide",
       "CEO": "*Nadishan danthanarayana* /g(AUG 30.2023 - Today)/g",
       "Headquarters": "Deniyaya, Sri Lanka",
       "platforms": [

@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Neuro corporation",
+      "subtitle": "IT corporation",
+      "logo": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/neuro%20corp.jpg",
+      "Parent organization": "",
+      "Subsidiaries": "",
+      "Founders": "*Nadishan Danthanarayana*",
+      "Founded": "*August 30 2023*",
+      "Area served": "International",
+      "CEO": "*Nadishan danthanarayana* /g(AUG 30.2023 - Today)/g",
+      "Headquarters": "Deniyaya, Sri Lanka",
+      "platforms": [
+        {
+        "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/trace.png",
+        "name": "TRACE",
+        "url": ""
+        },
+        {
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReui0hR7KlMGEsOBASI7zitThoQKFkhEhbbZC_EbnhPrhodPo6_ZcPhox3XFx4TOifbzDBWlKgyiJ5hcpaZsw1YMaZp4yDtd77qqrXxw",
+        "name": "NeuroBot",
+        "url": ""
+        },
+        {
+        "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/neural9.jpg",
+        "name": "NeuralNine",
+        "url": ""
+        }
+    ],
+    "Profiles": [
+        {
+          "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/gmail.jpg",
+          "name": "G-Mail",
+          "url": ""
+        },
+        {
+          "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/fb.png",
+          "name": "Facebook",
+          "url": ""
+        },
+        {
+         "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/linked.png",
+         "name": "Linkedin",
+         "url": ""
+        },
+        {
+         "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/x.jpg",
+         "name": "x",
+         "url": ""
+        },
+        {
+         "image": "https://raw.githubusercontent.com/nadishan18/search-engine/refs/heads/main/social/wa.png",
+         "name": "Whatsapp",
+         "url": ""
+        }
+        ]
+    }
+]
